@@ -1,6 +1,5 @@
 # Program to print the contents of a directory using the os module.
 import os
-
 #selects the directories you want to list
 directory_path ='/'
 
