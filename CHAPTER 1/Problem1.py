@@ -1,3 +1,4 @@
+#single line comment & Multiline comment
 print('''
       
 In A Royal in Paradise, struggling novelist Olivia Perkins escapes to the tropics after a breakup, 
